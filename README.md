@@ -9,7 +9,7 @@ As you start planning your composition, consider: What ideas do *you* want help 
 ## Generative constraints
 
 **Baseline criteria** \
-_2019 fall final draft; we'll update or affirm on Th 2/13_
+_Th 2/13 draft_
 
 For a minimum grade of B, all projects for this unit must:
 
