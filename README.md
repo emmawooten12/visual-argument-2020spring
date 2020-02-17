@@ -13,25 +13,31 @@ _2019 fall final draft; we'll update or affirm on Th 2/13_
 
 For a minimum grade of B, all projects for this unit must:
 
-* Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention.
-* Include at least one word, with a carefully chosen font, as explained in reflection.
+* Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention
 * Have a clear message or intervention
-* Incorporate juxtaposition
+* If including at least one word, use a carefully chosen font
+* If using no words, be sure to clarify your intention and choice in the reflection
+* Use a purposeful color palette
 * Use at least 3 layers
-* Use at least 1 GIMP tool beyond select, move, and text
-* Argue in reflection why you did what you did
+* Use at least 1 GIMP tool beyond select, move, and text (e.g. dodge, burn, clone tool, stamp tool)
+* For all of the above, argue in the reflection why you did what you did
+
 
 **Aspirational inspirations**
 To target (but not guarantee) a grade above a B, the best projects for this unit may...
 
-<!-- * Incorporate original photography
-* Include something surprising or unexpected in the elements you bring together
-* Have secondary and/or tertiary levels of hierarchy add layers or nuance to the argument
-* Use a consistent / considered color palette (and say why you chose it)
-* Use negative space actively
-* Use more than one font
-* Use GIMP filters or techniques (e.g. layer groups) that are new to you
-* Use GitHub if that’s still challenging enough — or more GitHub features (e.g. releases) if GitHub is feeling familiar -->
+* Collaborate with the machine by using GIMP automated tools/filters/effects (gradients, blur, etc)
+* Incorporate surprising juxtaposition (as appropriate)
+* Use overlapping pictures/sizing to showcase depth and distance, create 3D space
+* Use folders to group layers
+* Use layer masks for advanced combining / reveals etc
+* Practice using additional GIMP tools/filters that are new to you
+* Create the illusion of seamlessness
+* Create your own visual assets (photography, drawing, etc)
+* Use “[keywords toward a visual rhetoric](https://docs.google.com/document/d/18QF00VYOEYDVJ2ciloO0jzZxE3MBaetN-ooVeuHVVLQ/edit#heading=h.fhi9jgmnxpx8)” (scale, density, etc) to analyze/explain your design
+* Demonstrate that viewers understand your intention
+* Use git/GitHub with meaningful commit messages, if that’s still new/challenging
+
 
 
 
